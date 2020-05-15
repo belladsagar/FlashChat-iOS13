@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Flash Chat iOS13
 //
-//  Created by Angela Yu on 21/10/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
+//  Created by SAGAR C BELLAD on 18/04/2020.
+//  Copyright © 2019 SAGAR C BELLAD. All rights reserved.
 //
 
 import UIKit
